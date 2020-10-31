@@ -1,3 +1,3 @@
 # RssNews-Service
-# springframework
+# Spring Framework
 # REST api service with Maven dependencies 
