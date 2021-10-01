@@ -1,3 +1,4 @@
 # Rss News-Service
-# Java Spring Framework
-# REST api service with Spring Boot 
+# Java Spring Boot Framework
+# REST api
+  
